@@ -8,9 +8,18 @@
 #property version   "1.00"
 #property strict
 #include <CustomFunctions.mqh>
+//--- show input parameters
+#property show_inputs
+
+extern double maxRiskPrc = 0.02;
+extern double maxLossInPips = 20;
+extern double minimalDistance =  0.0001;
+extern int rsiMinLevel = 40;
+extern int rsiMaxLevel = 60;
 
 int magicNB = 55555;
 int orderId;
+
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
 //+------------------------------------------------------------------+
@@ -121,7 +130,7 @@ void OnTick()
             double TP = OrderTakeProfit();
             double TPdistance = MathAbs(TP - optimalTakeProfit);
 
-            if(TP != currentMidLine && TPdistance > 0.0001)
+            if(TP != currentMidLine && TPdistance > minimalDistance)
               {
 
                bool Ans = OrderModify(orderId, optimalNewPrice, optimalStopLoss, optimalTakeProfit, 0);
@@ -155,7 +164,12 @@ void OnTick()
                       bigBolligerBandsUpper,
                       bigBolligerBandsLower,
 
-                      rsi
+                      rsi,
+                      rsiMinLevel,
+                      rsiMaxLevel,
+
+                      maxRiskPrc,
+                      maxLossInPips
                    );
         }
 
