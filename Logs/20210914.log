@@ -1,0 +1,2420 @@
+0	09:51:25.938	Expert BB Test Strat EURAUD-g,H1: loaded successfully
+0	09:51:27.365	BB Test Strat EURAUD-g,H1: Alert: 
+0	09:51:27.365	BB Test Strat EURAUD-g,H1: Alert: The EA has started
+0	09:51:27.365	BB Test Strat EURAUD-g,H1: initialized
+0	09:51:35.959	BB Test Strat EURAUD-g,H1: Alert: Doing some trading
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: Alert: 
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: Alert: smallBolligerBandsMain: 1.60379
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: Alert: smallBolligerBandsUpper: 1.60664
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: Alert: smallBolligerBandsLower: 1.60094
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: Alert: bigBolligerBandsMain: 1.60379
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: Alert: bigBolligerBandsUpper: 1.61519
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: Alert: bigBolligerBandsLower: 1.5924
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: Alert: Ask:1.61125
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: Alert: Bid:1.61105
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: Alert: Entering short position
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: Alert: Entry price: 1.61105
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: Alert: maxLossInPips: 41
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: Account lot: 100000
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: Minimum Lot: 0.01
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: accEquity: 999.9442
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: lotSize: 100000
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: tickValue: 0.62
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: maxLossEuros: 19.998884
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: maxLossInQuoteCurrency: 32.25626451612904
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: Alert: ------------ ar2: 0.0041
+0	09:51:35.960	BB Test Strat EURAUD-g,H1: Alert: optLotsSize: 0.08
+2	09:51:36.156	BB Test Strat EURAUD-g,H1: open #279131751 sell limit 0.01 EURAUD-g at 1.61105 sl: 1.61519 tp: 1.60379 ok
+0	09:51:36.156	BB Test Strat EURAUD-g,H1: Alert: orderId: 279131751
+0	09:51:37.512	BB Test Strat EURAUD-g,H1: Alert: Doing some trading
+0	09:51:37.513	BB Test Strat EURAUD-g,H1: Alert: This expert advisor already sent order
+0	09:51:37.513	BB Test Strat EURAUD-g,H1: Alert: There is already an open  order. Do not send any more orders
+0	09:51:51.702	BB Test Strat EURAUD-g,H1: Alert: Doing some trading
+0	09:51:51.702	BB Test Strat EURAUD-g,H1: Alert: This expert advisor already sent order
+0	09:51:51.702	BB Test Strat EURAUD-g,H1: Alert: There is already an open  order. Do not send any more orders
+0	09:52:06.460	BB Test Strat EURAUD-g,H1: Alert: Doing some trading
+0	09:52:06.460	BB Test Strat EURAUD-g,H1: Alert: This expert advisor already sent order
+0	09:52:06.460	BB Test Strat EURAUD-g,H1: Alert: There is already an open  order. Do not send any more orders
+0	09:52:24.491	BB Test Strat EURAUD-g,H1: Alert: Doing some trading
+0	09:52:24.491	BB Test Strat EURAUD-g,H1: Alert: This expert advisor already sent order
+0	09:52:24.491	BB Test Strat EURAUD-g,H1: Alert: There is already an open  order. Do not send any more orders
+0	09:52:24.633	BB Test Strat EURAUD-g,H1: Alert: Doing some trading
+0	09:52:24.633	BB Test Strat EURAUD-g,H1: Alert: This expert advisor already sent order
+0	09:52:24.633	BB Test Strat EURAUD-g,H1: Alert: There is already an open  order. Do not send any more orders
+0	09:52:34.744	BB Test Strat EURAUD-g,H1: uninit reason 3
+0	09:52:34.744	BB Test Strat EURAUD-g,H1: Alert: The EA just closed
+0	09:52:34.945	BB Test Strat EURAUD-g,M5: Alert: 
+0	09:52:34.945	BB Test Strat EURAUD-g,M5: Alert: The EA has started
+0	09:52:34.945	BB Test Strat EURAUD-g,M5: initialized
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: Alert: 
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60985
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61075
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60895
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60985
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61344
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60626
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61119
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: Alert: Bid:1.61098
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: Alert: Entering short position
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: Alert: Entry price: 1.61098
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: Alert: maxLossInPips: 24
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: Account lot: 100000
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: Minimum Lot: 0.01
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: accEquity: 999.9431
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: lotSize: 100000
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: tickValue: 0.62
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: maxLossEuros: 19.998862
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: maxLossInQuoteCurrency: 32.25622903225806
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: Alert: ------------ ar2: 0.0024
+0	09:52:37.520	BB Test Strat EURAUD-g,M5: Alert: optLotsSize: 0.13
+2	09:52:37.738	BB Test Strat EURAUD-g,M5: open #279131770 sell limit 0.01 EURAUD-g at 1.61098 sl: 1.61344 tp: 1.60985 ok
+0	09:52:37.738	BB Test Strat EURAUD-g,M5: Alert: orderId: 279131770
+0	09:52:52.682	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:52:52.682	BB Test Strat EURAUD-g,M5: Alert: 
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60985
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61074
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60895
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60985
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61343
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60626
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61115
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: Alert: Bid:1.61094
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: Alert: Entering short position
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: Alert: Entry price: 1.61094
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: Alert: maxLossInPips: 24
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: Account lot: 100000
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: Minimum Lot: 0.01
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: accEquity: 999.9417999999999
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: lotSize: 100000
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: tickValue: 0.62
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: maxLossEuros: 19.998836
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: maxLossInQuoteCurrency: 32.2561870967742
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: Alert: ------------ ar2: 0.0024
+0	09:52:52.684	BB Test Strat EURAUD-g,M5: Alert: optLotsSize: 0.13
+2	09:52:52.879	BB Test Strat EURAUD-g,M5: open #279131802 sell limit 0.01 EURAUD-g at 1.61094 sl: 1.61343 tp: 1.60985 ok
+0	09:52:52.879	BB Test Strat EURAUD-g,M5: Alert: orderId: 279131802
+0	09:52:57.152	BB Test Strat EURAUD-g,M5: uninit reason 1
+0	09:52:57.152	BB Test Strat EURAUD-g,M5: Alert: The EA just closed
+0	09:52:57.156	Expert BB Test Strat EURAUD-g,M5: removed
+0	09:53:36.541	Expert BB Test Strat EURAUD-g,M5: loaded successfully
+0	09:53:38.185	BB Test Strat EURAUD-g,M5: Alert: 
+0	09:53:38.185	BB Test Strat EURAUD-g,M5: Alert: The EA has started
+0	09:53:38.185	BB Test Strat EURAUD-g,M5: initialized
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: Alert: 
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60986
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61078
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60895
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60986
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61352
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.6062
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61144
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: Alert: Bid:1.61123
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: Alert: Entering short position
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: Alert: Entry price: 1.61123
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: Alert: maxLossInPips: 22
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: Account lot: 100000
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: Minimum Lot: 0.01
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: accEquity: 999.9392999999999
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: lotSize: 100000
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: tickValue: 0.62
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: maxLossEuros: 19.998786
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: maxLossInQuoteCurrency: 32.2561064516129
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: Alert: ------------ ar2: 0.0022
+0	09:53:38.403	BB Test Strat EURAUD-g,M5: Alert: optLotsSize: 0.15
+2	09:53:38.599	BB Test Strat EURAUD-g,M5: open #279131824 sell limit 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60986 ok
+0	09:53:38.599	BB Test Strat EURAUD-g,M5: Alert: orderId: 279131824
+0	09:53:55.584	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:53:55.584	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:53:55.584	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:53:55.735	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:53:55.735	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:53:55.735	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:54:04.422	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:54:04.423	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:54:04.423	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:54:08.414	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:54:08.415	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:54:08.415	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:54:08.651	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60985 ok
+0	09:54:08.651	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:54:23.606	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:54:23.606	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:54:23.606	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:54:23.841	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60986 ok
+0	09:54:23.841	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:54:27.935	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:54:27.935	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:54:27.935	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:54:30.846	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:54:30.846	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:54:30.846	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:54:34.856	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:54:34.857	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:54:34.857	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:54:35.121	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60985 ok
+0	09:54:35.121	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:54:41.820	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:54:41.820	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:54:41.820	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:54:42.736	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:54:42.736	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:54:42.738	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:54:51.811	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:54:51.811	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:54:51.813	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:54:52.724	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:54:52.725	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:54:52.726	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:55:00.608	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:55:00.608	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:55:00.608	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:55:00.831	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61000 ok
+0	09:55:00.831	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:55:16.543	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:55:16.543	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:55:16.543	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:55:23.237	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:55:23.238	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:55:23.238	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:55:24.346	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:55:24.347	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:55:24.347	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:55:24.440	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:55:24.440	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:55:24.440	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:55:24.671	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60999 ok
+0	09:55:24.671	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:55:24.671	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:55:24.671	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:55:24.671	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:55:29.456	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:55:29.456	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:55:29.458	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:55:35.239	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:55:35.240	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:55:35.240	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:55:36.581	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:55:36.581	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:55:36.581	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:55:36.801	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60998 ok
+0	09:55:36.802	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:55:51.067	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:55:51.067	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:55:51.067	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:55:51.263	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60999 ok
+0	09:55:51.263	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:55:53.439	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:55:53.440	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:55:53.442	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:56:08.838	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:56:08.838	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:56:08.838	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:56:24.049	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:56:24.049	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:56:24.051	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:56:24.282	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60998 ok
+0	09:56:24.282	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:56:24.282	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:56:24.282	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:56:24.282	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:56:26.331	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:56:26.332	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:56:26.332	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:56:26.948	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:56:26.948	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:56:26.948	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:56:27.183	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60999 ok
+0	09:56:27.183	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:56:28.040	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:56:28.040	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:56:28.042	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:56:28.252	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60998 ok
+0	09:56:28.252	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:56:31.944	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:56:31.944	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:56:31.944	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:56:36.338	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:56:36.339	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:56:36.339	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:56:52.106	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:56:52.107	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:56:52.108	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:57:04.498	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:57:04.499	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:57:04.499	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:57:04.979	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:57:04.979	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:57:04.979	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:57:05.204	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60999 ok
+0	09:57:05.204	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:57:06.408	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:57:06.408	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:57:06.410	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:57:09.588	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:57:09.589	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:57:09.589	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:57:21.635	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:57:21.635	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:57:21.635	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:57:21.730	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:57:21.730	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:57:21.732	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:57:29.342	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:57:29.343	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:57:29.343	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:57:32.707	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:57:32.707	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:57:32.707	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:57:35.012	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:57:35.012	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:57:35.015	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:57:35.235	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60998 ok
+0	09:57:35.235	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:57:37.028	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:57:37.028	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:57:37.028	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:57:37.224	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60999 ok
+0	09:57:37.224	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:57:44.497	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:57:44.497	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:57:44.497	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:57:45.269	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:57:45.269	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:57:45.269	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:57:55.479	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:57:55.480	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:57:55.480	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:57:55.741	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60998 ok
+0	09:57:55.741	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:57:55.751	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:57:55.751	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:57:55.751	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:57:55.971	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60999 ok
+0	09:57:55.971	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:57:55.971	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:57:55.971	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:57:55.971	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:58:00.363	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:58:00.364	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:58:00.365	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:58:11.677	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:58:11.678	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:58:11.678	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:58:11.904	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60998 ok
+0	09:58:11.904	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:58:13.772	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:58:13.772	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:58:13.774	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:58:32.508	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:58:32.508	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:58:32.508	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:58:33.214	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:58:33.214	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:58:33.214	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:59:05.533	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:59:05.533	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:59:05.533	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:59:05.905	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:59:05.905	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:59:05.905	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:59:06.731	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:59:06.731	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:59:06.731	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:59:11.675	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:59:11.675	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:59:11.675	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:59:12.461	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:59:12.461	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:59:12.461	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:59:14.602	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:59:14.602	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:59:14.602	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:59:30.534	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:59:30.534	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:59:30.534	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:59:30.771	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60997 ok
+0	09:59:30.771	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:59:34.462	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:59:34.462	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:59:34.462	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:59:34.677	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60998 ok
+0	09:59:34.677	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:59:37.170	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:59:37.171	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:59:37.171	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:59:37.382	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60997 ok
+0	09:59:37.382	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:59:43.885	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:59:43.885	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:59:43.885	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	09:59:44.077	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.60998 ok
+0	09:59:44.077	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	09:59:50.410	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:59:50.410	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:59:50.413	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:59:50.695	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:59:50.695	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:59:50.695	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:59:50.994	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:59:50.994	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:59:50.994	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:59:55.384	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:59:55.385	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:59:55.386	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	09:59:55.566	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	09:59:55.567	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	09:59:55.567	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:02.378	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:02.378	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:02.378	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:00:02.958	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61011 ok
+0	10:00:02.958	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:00:03.487	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:03.487	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:03.487	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:05.373	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:05.373	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:05.373	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:06.073	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:06.074	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:06.074	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:06.453	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:06.453	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:06.453	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:08.471	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:08.472	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:08.472	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:00:08.687	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61012 ok
+0	10:00:08.687	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:00:09.243	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:09.243	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:09.243	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:00:09.477	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61011 ok
+0	10:00:09.477	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:00:12.655	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:12.655	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:12.655	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:19.804	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:19.804	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:19.804	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:19.884	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:19.884	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:19.884	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:19.954	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:19.954	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:19.954	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:20.184	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:20.184	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:20.184	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:21.535	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:21.535	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:21.537	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:00:22.160	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61012 ok
+0	10:00:22.160	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:00:22.470	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:22.471	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:22.471	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:00:22.690	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61011 ok
+0	10:00:22.690	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:00:23.647	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:23.647	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:23.647	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:00:23.915	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61012 ok
+0	10:00:23.915	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:00:24.258	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:24.258	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:24.258	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:25.758	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:25.758	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:25.758	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:26.097	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:26.097	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:26.097	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:00:26.308	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61011 ok
+0	10:00:26.308	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:00:26.578	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:26.578	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:26.578	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:27.013	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:27.013	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:27.013	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:28.402	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:28.402	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:28.404	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:28.918	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:28.918	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:28.918	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:29.126	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:29.126	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:29.129	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:30.061	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:30.062	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:30.062	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:31.328	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:31.329	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:31.329	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:32.974	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:32.974	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:32.976	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:35.965	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:35.965	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:35.965	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:36.021	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:36.022	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:36.022	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:36.525	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:36.525	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:36.525	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:00:36.769	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61012 ok
+0	10:00:36.769	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:00:38.422	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:38.423	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:38.423	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:00:38.667	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61011 ok
+0	10:00:38.667	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:00:38.667	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:38.667	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:38.668	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:00:38.919	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61012 ok
+0	10:00:38.919	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:00:39.064	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:39.064	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:39.064	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:41.644	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:41.644	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:41.647	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:00:46.562	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:46.563	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:46.563	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:00:46.908	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61011 ok
+0	10:00:46.908	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:00:48.704	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:48.704	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:48.706	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:00:48.960	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61012 ok
+0	10:00:48.960	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:00:57.973	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:57.973	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:57.973	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:00:58.199	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61011 ok
+0	10:00:58.199	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:00:58.199	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:00:58.199	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:00:58.199	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:01.017	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:01.017	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:01.020	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:01.326	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:01.326	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:01.326	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:02.267	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:02.267	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:02.267	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:10.274	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:10.275	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:10.275	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:01:10.509	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61010 ok
+0	10:01:10.509	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:01:12.474	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:12.475	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:12.477	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:01:12.700	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61011 ok
+0	10:01:12.700	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:01:17.272	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:17.273	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:17.273	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:19.703	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:19.704	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:19.704	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:20.945	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:20.945	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:20.947	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:25.204	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:25.206	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:25.206	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:25.552	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:25.552	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:25.554	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:26.131	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:26.131	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:26.133	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:01:26.329	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61010 ok
+0	10:01:26.329	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:01:28.917	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:28.918	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:28.918	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:29.380	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:29.381	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:29.386	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:29.694	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:29.694	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:29.698	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:32.047	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:32.047	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:32.047	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:01:32.291	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61009 ok
+0	10:01:32.291	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:01:40.288	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:40.288	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:40.289	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:40.687	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:40.687	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:40.687	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:01:40.931	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61010 ok
+0	10:01:40.931	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:01:40.931	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:40.931	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:40.931	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:45.756	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:45.757	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:45.759	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:01:46.011	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61009 ok
+0	10:01:46.011	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:01:51.649	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:51.649	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:51.649	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:01:51.880	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61010 ok
+0	10:01:51.880	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:01:53.900	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:53.901	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:53.901	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:54.282	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:54.282	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:54.282	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:01:54.581	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61009 ok
+0	10:01:54.581	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:01:54.581	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:54.581	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:54.581	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:01:54.810	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61010 ok
+0	10:01:54.811	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:01:54.811	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:54.811	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:54.811	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:01:55.053	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61009 ok
+0	10:01:55.053	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:01:55.139	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:55.139	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:55.139	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:55.637	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:55.637	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:55.637	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:58.355	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:58.355	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:58.355	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:01:59.666	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:01:59.667	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:01:59.667	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:01.103	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:01.103	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:01.103	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:02.144	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:02.145	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:02.146	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:02.482	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:02.482	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:02.484	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:09.435	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:09.435	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:09.435	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:11.191	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:11.191	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:11.191	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:02:11.411	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61010 ok
+0	10:02:11.411	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:02:16.393	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:16.393	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:16.395	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:02:16.600	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61009 ok
+0	10:02:16.600	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:02:19.577	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:19.577	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:19.577	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:22.980	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:22.981	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:22.981	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:27.716	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:27.716	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:27.716	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:27.867	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:27.867	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:27.867	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:28.059	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:28.059	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:28.059	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:33.103	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:33.103	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:33.103	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:35.303	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:35.304	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:35.304	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:35.956	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:35.956	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:35.958	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:38.897	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:38.897	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:38.897	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:40.599	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:40.599	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:40.599	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:41.202	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:41.203	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:41.203	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:47.075	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:47.076	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:47.076	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:47.323	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:47.323	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:47.323	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:48.159	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:48.159	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:48.159	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:52.338	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:52.340	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:52.340	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:54.607	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:54.607	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:54.607	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:56.471	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:56.471	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:56.471	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:02:56.683	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:02:56.683	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:02:56.683	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:03:00.648	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:00.648	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:00.648	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:03:03.187	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:03.187	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:03.187	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:03:04.335	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:04.335	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:04.338	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:03:08.863	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:08.864	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:08.864	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:03:09.841	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:09.841	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:09.843	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:03:12.839	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:12.840	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:12.842	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:03:13.785	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:13.786	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:13.786	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:03:16.627	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:16.627	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:16.627	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:03:21.137	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:21.137	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:21.137	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:03:27.888	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:27.889	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:27.889	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:03:28.668	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:28.668	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:28.668	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:03:40.328	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:40.328	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:40.328	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:03:48.033	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:48.033	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:48.033	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:03:48.225	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:48.225	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:48.227	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:03:52.811	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:52.811	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:52.811	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:03:54.697	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:54.697	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:54.697	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:03:54.901	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61008 ok
+0	10:03:54.901	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:03:55.258	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:55.258	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:55.258	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:03:55.471	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61009 ok
+0	10:03:55.471	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:03:55.854	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:55.854	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:55.854	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:03:56.051	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61008 ok
+0	10:03:56.051	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:03:57.736	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:03:57.736	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:03:57.736	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:03:57.951	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61009 ok
+0	10:03:57.951	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:04:04.388	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:04.389	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:04:04.390	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:04:04.586	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:04.587	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:04:04.587	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:04:05.777	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:05.777	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:04:05.777	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:04:06.002	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61008 ok
+0	10:04:06.002	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:04:12.208	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:12.209	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:04:12.210	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:04:12.460	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61009 ok
+0	10:04:12.460	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:04:13.896	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:13.897	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:04:13.897	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:04:14.403	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61008 ok
+0	10:04:14.403	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:04:14.403	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:14.403	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:04:14.403	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:04:15.356	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:15.356	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:04:15.361	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+2	10:04:15.590	BB Test Strat EURAUD-g,M5: modify #279131824 sell 0.01 EURAUD-g at 1.61123 sl: 1.61352 tp: 1.61007 ok
+0	10:04:15.590	BB Test Strat EURAUD-g,M5: Alert: Modified order279131824
+0	10:04:16.358	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:16.358	BB Test Strat EURAUD-g,M5: Alert: This expert advisor already sent order
+0	10:04:16.360	BB Test Strat EURAUD-g,M5: Alert: There is already an open  order. Do not send any more orders
+0	10:04:17.016	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:17.016	BB Test Strat EURAUD-g,M5: Alert: 
+0	10:04:17.016	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.61007
+0	10:04:17.016	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.6108
+0	10:04:17.020	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60934
+0	10:04:17.022	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.61007
+0	10:04:17.023	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61299
+0	10:04:17.024	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60714
+0	10:04:17.024	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61002
+0	10:04:17.026	BB Test Strat EURAUD-g,M5: Alert: Bid:1.6098
+0	10:04:17.026	BB Test Strat EURAUD-g,M5: Alert: Waiting to place order
+0	10:04:17.098	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:17.098	BB Test Strat EURAUD-g,M5: Alert: 
+0	10:04:17.098	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.61007
+0	10:04:17.098	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.6108
+0	10:04:17.104	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60934
+0	10:04:17.104	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.61007
+0	10:04:17.106	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61299
+0	10:04:17.106	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60714
+0	10:04:17.108	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61002
+0	10:04:17.108	BB Test Strat EURAUD-g,M5: Alert: Bid:1.60979
+0	10:04:17.111	BB Test Strat EURAUD-g,M5: Alert: Waiting to place order
+0	10:04:17.497	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:17.497	BB Test Strat EURAUD-g,M5: Alert: 
+0	10:04:17.497	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.61007
+0	10:04:17.497	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.6108
+0	10:04:17.501	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60934
+0	10:04:17.503	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.61007
+0	10:04:17.504	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61299
+0	10:04:17.505	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60715
+0	10:04:17.505	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61007
+0	10:04:17.507	BB Test Strat EURAUD-g,M5: Alert: Bid:1.60983
+0	10:04:17.508	BB Test Strat EURAUD-g,M5: Alert: Waiting to place order
+0	10:04:18.063	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:18.063	BB Test Strat EURAUD-g,M5: Alert: 
+0	10:04:18.063	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.61007
+0	10:04:18.063	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.6108
+0	10:04:18.063	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60934
+0	10:04:18.063	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.61007
+0	10:04:18.063	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61299
+0	10:04:18.063	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60714
+0	10:04:18.063	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61002
+0	10:04:18.063	BB Test Strat EURAUD-g,M5: Alert: Bid:1.6098
+0	10:04:18.063	BB Test Strat EURAUD-g,M5: Alert: Waiting to place order
+0	10:04:18.361	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:18.362	BB Test Strat EURAUD-g,M5: Alert: 
+0	10:04:18.362	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.61007
+0	10:04:18.362	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.6108
+0	10:04:18.362	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60934
+0	10:04:18.362	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.61007
+0	10:04:18.362	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61299
+0	10:04:18.362	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60715
+0	10:04:18.362	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61007
+0	10:04:18.362	BB Test Strat EURAUD-g,M5: Alert: Bid:1.60984
+0	10:04:18.362	BB Test Strat EURAUD-g,M5: Alert: Waiting to place order
+0	10:04:18.944	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:18.945	BB Test Strat EURAUD-g,M5: Alert: 
+0	10:04:18.945	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.61007
+0	10:04:18.945	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.6108
+0	10:04:18.945	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60933
+0	10:04:18.945	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.61007
+0	10:04:18.945	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61299
+0	10:04:18.945	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60714
+0	10:04:18.945	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61003
+0	10:04:18.945	BB Test Strat EURAUD-g,M5: Alert: Bid:1.60978
+0	10:04:18.945	BB Test Strat EURAUD-g,M5: Alert: Waiting to place order
+0	10:04:21.016	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:21.016	BB Test Strat EURAUD-g,M5: Alert: 
+0	10:04:21.016	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.61007
+0	10:04:21.016	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.6108
+0	10:04:21.016	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60934
+0	10:04:21.016	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.61007
+0	10:04:21.016	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61299
+0	10:04:21.016	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60714
+0	10:04:21.016	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61009
+0	10:04:21.016	BB Test Strat EURAUD-g,M5: Alert: Bid:1.60981
+0	10:04:21.016	BB Test Strat EURAUD-g,M5: Alert: Waiting to place order
+0	10:04:21.063	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:21.063	BB Test Strat EURAUD-g,M5: Alert: 
+0	10:04:21.063	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.61007
+0	10:04:21.063	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.6108
+0	10:04:21.063	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60934
+0	10:04:21.063	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.61007
+0	10:04:21.063	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61299
+0	10:04:21.063	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60715
+0	10:04:21.063	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61012
+0	10:04:21.063	BB Test Strat EURAUD-g,M5: Alert: Bid:1.60986
+0	10:04:21.063	BB Test Strat EURAUD-g,M5: Alert: Waiting to place order
+0	10:04:21.379	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:21.379	BB Test Strat EURAUD-g,M5: Alert: 
+0	10:04:21.379	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.61007
+0	10:04:21.379	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.6108
+0	10:04:21.379	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60934
+0	10:04:21.379	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.61007
+0	10:04:21.379	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61299
+0	10:04:21.379	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60716
+0	10:04:21.379	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61015
+0	10:04:21.379	BB Test Strat EURAUD-g,M5: Alert: Bid:1.60991
+0	10:04:21.379	BB Test Strat EURAUD-g,M5: Alert: Waiting to place order
+0	10:04:23.262	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:23.262	BB Test Strat EURAUD-g,M5: Alert: 
+0	10:04:23.262	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.61008
+0	10:04:23.262	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.6108
+0	10:04:23.262	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60935
+0	10:04:23.262	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.61008
+0	10:04:23.262	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61299
+0	10:04:23.262	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60716
+0	10:04:23.262	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61021
+0	10:04:23.262	BB Test Strat EURAUD-g,M5: Alert: Bid:1.60998
+0	10:04:23.262	BB Test Strat EURAUD-g,M5: Alert: Waiting to place order
+0	10:04:24.481	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:24.482	BB Test Strat EURAUD-g,M5: Alert: 
+0	10:04:24.482	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.61008
+0	10:04:24.484	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61081
+0	10:04:24.484	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60935
+0	10:04:24.486	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.61008
+0	10:04:24.486	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61299
+0	10:04:24.489	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60716
+0	10:04:24.489	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61027
+0	10:04:24.491	BB Test Strat EURAUD-g,M5: Alert: Bid:1.61001
+0	10:04:24.491	BB Test Strat EURAUD-g,M5: Alert: Waiting to place order
+0	10:04:24.813	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:24.813	BB Test Strat EURAUD-g,M5: Alert: 
+0	10:04:24.813	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.61008
+0	10:04:24.813	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.6108
+0	10:04:24.813	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60935
+0	10:04:24.813	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.61008
+0	10:04:24.813	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61299
+0	10:04:24.813	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60716
+0	10:04:24.813	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61022
+0	10:04:24.813	BB Test Strat EURAUD-g,M5: Alert: Bid:1.60997
+0	10:04:24.813	BB Test Strat EURAUD-g,M5: Alert: Waiting to place order
+0	10:04:26.875	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:26.876	BB Test Strat EURAUD-g,M5: Alert: 
+0	10:04:26.876	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.61007
+0	10:04:26.879	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.6108
+0	10:04:26.880	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60934
+0	10:04:26.881	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.61007
+0	10:04:26.882	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61299
+0	10:04:26.883	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60716
+0	10:04:26.884	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61018
+0	10:04:26.886	BB Test Strat EURAUD-g,M5: Alert: Bid:1.60992
+0	10:04:26.886	BB Test Strat EURAUD-g,M5: Alert: Waiting to place order
+0	10:04:29.419	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:29.419	BB Test Strat EURAUD-g,M5: Alert: 
+0	10:04:29.419	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.61008
+0	10:04:29.419	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61081
+0	10:04:29.419	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60935
+0	10:04:29.419	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.61008
+0	10:04:29.419	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61299
+0	10:04:29.419	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60716
+0	10:04:29.419	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61022
+0	10:04:29.419	BB Test Strat EURAUD-g,M5: Alert: Bid:1.60999
+0	10:04:29.419	BB Test Strat EURAUD-g,M5: Alert: Waiting to place order
+0	10:04:29.583	BB Test Strat EURAUD-g,M5: Alert: Doing some trading
+0	10:04:29.583	BB Test Strat EURAUD-g,M5: Alert: 
+0	10:04:29.583	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.61008
+0	10:04:29.583	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61081
+0	10:04:29.583	BB Test Strat EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60935
+0	10:04:29.583	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.61008
+0	10:04:29.590	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61299
+0	10:04:29.590	BB Test Strat EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60716
+0	10:04:29.592	BB Test Strat EURAUD-g,M5: Alert: Ask:1.61028
+0	10:04:29.592	BB Test Strat EURAUD-g,M5: Alert: Bid:1.61001
+0	10:04:29.594	BB Test Strat EURAUD-g,M5: Alert: Waiting to place order
+0	10:04:32.283	BB Test Strat EURAUD-g,M5: uninit reason 1
+0	10:04:32.283	BB Test Strat EURAUD-g,M5: Alert: The EA just closed
+0	10:04:32.286	Expert BB Test Strat EURAUD-g,M5: removed
+0	10:48:07.514	Compiling 'BB Test Strat'
+0	11:06:55.372	Expert BB 2 Bands MR EURAUD-g,M5: loaded successfully
+0	11:06:57.162	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:06:57.162	BB 2 Bands MR EURAUD-g,M5: Alert: The BB 2 Bands MR EA has started
+0	11:06:57.162	BB 2 Bands MR EURAUD-g,M5: initialized
+0	11:07:19.304	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:07:19.305	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:07:19.307	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:07:19.308	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:07:19.311	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6079
+0	11:07:19.313	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:07:19.315	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:07:19.316	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60665
+0	11:07:19.316	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:07:19.316	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:07:19.316	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60164
+0	11:07:19.771	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:07:19.771	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:07:19.771	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:07:19.771	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:07:19.776	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6079
+0	11:07:19.777	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:07:19.777	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:07:19.777	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60665
+0	11:07:19.777	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:07:19.777	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:07:19.777	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60164
+0	11:07:22.930	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:07:22.930	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:07:22.930	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:07:22.930	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:07:22.930	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60791
+0	11:07:22.930	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:07:22.937	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:07:22.938	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60665
+0	11:07:22.938	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:07:22.938	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:07:22.938	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60165
+0	11:07:22.981	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:07:22.981	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:07:22.981	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:07:22.981	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:07:22.986	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60791
+0	11:07:22.987	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:07:22.988	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:07:22.989	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60665
+0	11:07:22.991	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:07:22.991	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:07:22.993	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60165
+0	11:07:25.698	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:07:25.698	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:07:25.698	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:07:25.705	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:07:25.706	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60791
+0	11:07:25.707	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:07:25.707	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:07:25.710	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60665
+0	11:07:25.710	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:07:25.712	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:07:25.712	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60164
+0	11:07:31.271	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:07:31.272	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:07:31.273	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:07:31.273	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:07:31.273	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60791
+0	11:07:31.273	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:07:31.273	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:07:31.273	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60665
+0	11:07:31.273	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:07:31.273	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:07:31.273	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60165
+0	11:07:36.597	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:07:36.597	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:07:36.599	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:07:36.600	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:07:36.600	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60791
+0	11:07:36.600	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:07:36.600	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:07:36.600	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60665
+0	11:07:36.600	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:07:36.600	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:07:36.600	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60164
+0	11:07:43.939	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:07:43.939	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:07:43.939	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:07:43.939	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:07:43.939	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60791
+0	11:07:43.939	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:07:43.939	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:07:43.939	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60665
+0	11:07:43.939	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:07:43.939	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:07:43.939	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60165
+0	11:07:47.209	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:07:47.209	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:07:47.209	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:07:47.209	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:07:47.209	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60791
+0	11:07:47.209	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:07:47.210	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:07:47.210	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60666
+0	11:07:47.210	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:07:47.210	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:07:47.210	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60165
+0	11:07:55.997	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:07:55.997	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:07:55.999	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:07:56.000	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:07:56.000	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60791
+0	11:07:56.002	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:07:56.004	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:07:56.005	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60666
+0	11:07:56.006	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:07:56.007	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:07:56.008	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60165
+0	11:07:58.451	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:07:58.452	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:07:58.453	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:07:58.453	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:07:58.455	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60791
+0	11:07:58.456	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:07:58.458	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:07:58.459	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60666
+0	11:07:58.461	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:07:58.461	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:07:58.463	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60165
+0	11:08:09.066	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:09.066	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:08:09.066	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:08:09.066	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:08:09.066	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60791
+0	11:08:09.072	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:08:09.074	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:08:09.074	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60666
+0	11:08:09.076	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:08:09.076	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:08:09.079	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60165
+0	11:08:12.930	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:12.930	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:08:12.930	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:08:12.930	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:08:12.930	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60791
+0	11:08:12.930	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:08:12.930	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:08:12.930	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60666
+0	11:08:12.930	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:08:12.930	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:08:12.930	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60165
+0	11:08:14.692	BB 2 Bands MR EURAUD-g,M5: uninit reason 1
+0	11:08:14.693	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:14.693	BB 2 Bands MR EURAUD-g,M5: Alert: The BB 2 Bands MR EA just closed
+0	11:08:14.696	Expert BB 2 Bands MR EURAUD-g,M5: removed
+0	11:08:21.637	Expert BB 2 Bands MR EURAUD-g,M5: loaded successfully
+0	11:08:23.142	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:23.142	BB 2 Bands MR EURAUD-g,M5: Alert: The BB 2 Bands MR EA has started
+0	11:08:23.142	BB 2 Bands MR EURAUD-g,M5: initialized
+0	11:08:32.173	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:32.173	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:08:32.175	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:08:32.177	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:08:32.178	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60791
+0	11:08:32.179	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:08:32.181	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:08:32.182	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60665
+0	11:08:32.183	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:08:32.184	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:08:32.185	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60165
+0	11:08:35.726	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:35.727	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:08:35.727	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:08:35.727	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:08:35.727	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60791
+0	11:08:35.727	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:08:35.727	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:08:35.727	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60666
+0	11:08:35.727	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:08:35.727	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:08:35.727	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60165
+0	11:08:40.168	BB 2 Bands MR EURAUD-g,M5: uninit reason 2
+0	11:08:40.168	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:40.168	BB 2 Bands MR EURAUD-g,M5: Alert: The BB 2 Bands MR EA just closed
+0	11:08:40.169	Expert BB 2 Bands MR EURAUD-g,M5: removed
+0	11:08:40.178	Expert BB 2 Bands MR EURAUD-g,M5: loaded successfully
+0	11:08:40.192	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:40.192	BB 2 Bands MR EURAUD-g,M5: Alert: The BB 2 Bands MR EA has started
+0	11:08:40.192	BB 2 Bands MR EURAUD-g,M5: initialized
+0	11:08:46.137	BB 2 Bands MR EURAUD-g,M5: uninit reason 1
+0	11:08:46.137	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:46.137	BB 2 Bands MR EURAUD-g,M5: Alert: The BB 2 Bands MR EA just closed
+0	11:08:46.141	Expert BB 2 Bands MR EURAUD-g,M5: removed
+0	11:08:52.333	Expert BB 2 Bands MR EURAUD-g,M5: loaded successfully
+0	11:08:53.486	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:53.486	BB 2 Bands MR EURAUD-g,M5: Alert: The BB 2 Bands MR EA has started
+0	11:08:53.486	BB 2 Bands MR EURAUD-g,M5: initialized
+0	11:08:53.486	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:53.486	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:08:53.487	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:08:53.487	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:08:53.487	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60791
+0	11:08:53.487	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:53.487	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:08:53.487	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:08:53.487	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60666
+0	11:08:53.487	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:53.487	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:08:53.487	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:08:53.487	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60165
+0	11:08:55.875	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:55.876	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:08:55.876	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:08:55.876	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:08:55.876	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60791
+0	11:08:55.876	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:55.876	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:08:55.876	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:08:55.876	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60666
+0	11:08:55.876	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:55.876	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:08:55.876	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:08:55.876	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60165
+0	11:08:59.725	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:59.725	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:08:59.725	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:08:59.725	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:08:59.729	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60791
+0	11:08:59.729	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:59.732	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:08:59.732	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:08:59.734	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60666
+0	11:08:59.734	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:08:59.736	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:08:59.736	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:08:59.739	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60165
+0	11:09:03.493	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:09:03.493	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:09:03.496	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60916
+0	11:09:03.496	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:09:03.498	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60791
+0	11:09:03.498	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:09:03.500	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60916
+0	11:09:03.500	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61166
+0	11:09:03.503	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60665
+0	11:09:03.503	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:09:03.505	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60916
+0	11:09:03.505	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61667
+0	11:09:03.508	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60165
+0	11:09:12.346	BB 2 Bands MR EURAUD-g,M5: uninit reason 1
+0	11:09:12.347	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:09:12.347	BB 2 Bands MR EURAUD-g,M5: Alert: The BB 2 Bands MR EA just closed
+0	11:09:12.349	Expert BB 2 Bands MR EURAUD-g,M5: removed
+0	11:12:05.465	Expert BB 2 Bands MR EURAUD-g,M5: loaded successfully
+0	11:12:06.554	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:06.554	BB 2 Bands MR EURAUD-g,M5: Alert: The BB 2 Bands MR EA has started
+0	11:12:06.554	BB 2 Bands MR EURAUD-g,M5: initialized
+0	11:12:08.612	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:08.612	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:12:08.612	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60921
+0	11:12:08.612	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:12:08.612	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.608
+0	11:12:08.612	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:08.612	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60921
+0	11:12:08.612	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61164
+0	11:12:08.612	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60679
+0	11:12:08.612	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:08.612	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60921
+0	11:12:08.612	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61648
+0	11:12:08.612	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60194
+0	11:12:08.612	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:08.612	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.79013528835551
+0	11:12:15.843	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:15.843	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:12:15.843	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60921
+0	11:12:15.843	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:12:15.843	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.608
+0	11:12:15.843	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:15.843	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60921
+0	11:12:15.843	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61163
+0	11:12:15.843	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60679
+0	11:12:15.843	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:15.843	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60921
+0	11:12:15.843	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61648
+0	11:12:15.843	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60194
+0	11:12:15.843	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:15.843	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.69268741880025
+0	11:12:17.151	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:17.151	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:12:17.151	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60921
+0	11:12:17.155	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:12:17.155	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.608
+0	11:12:17.157	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:17.157	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60921
+0	11:12:17.160	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61163
+0	11:12:17.161	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60679
+0	11:12:17.162	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:17.163	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60921
+0	11:12:17.164	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61648
+0	11:12:17.166	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60194
+0	11:12:17.167	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:17.168	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.76581352868399
+0	11:12:17.349	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:17.349	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:12:17.349	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60921
+0	11:12:17.353	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:12:17.354	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.608
+0	11:12:17.356	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:17.357	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60921
+0	11:12:17.358	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61163
+0	11:12:17.359	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60679
+0	11:12:17.360	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:17.362	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60921
+0	11:12:17.363	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61648
+0	11:12:17.364	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60194
+0	11:12:17.365	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:17.366	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.66825829075699
+0	11:12:19.936	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:19.936	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:12:19.936	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60921
+0	11:12:19.940	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:12:19.941	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.608
+0	11:12:19.943	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:19.943	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60921
+0	11:12:19.945	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61164
+0	11:12:19.946	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60679
+0	11:12:19.947	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:19.948	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60921
+0	11:12:19.950	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61648
+0	11:12:19.951	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60194
+0	11:12:19.952	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:19.952	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.79013528835551
+0	11:12:22.129	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:22.130	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:12:22.130	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60921
+0	11:12:22.130	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:12:22.130	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.608
+0	11:12:22.130	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:22.130	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60921
+0	11:12:22.130	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61163
+0	11:12:22.130	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60679
+0	11:12:22.130	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:22.130	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60921
+0	11:12:22.130	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61648
+0	11:12:22.130	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60194
+0	11:12:22.130	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:22.130	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.69268741880025
+0	11:12:24.114	BB 2 Bands MR EURAUD-g,M5: uninit reason 1
+0	11:12:24.114	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:12:24.114	BB 2 Bands MR EURAUD-g,M5: Alert: The BB 2 Bands MR EA just closed
+0	11:12:24.119	Expert BB 2 Bands MR EURAUD-g,M5: removed
+0	11:44:36.168	Expert BB 2 Bands MR EURAUD-g,M5: loaded successfully
+0	11:44:37.426	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:37.426	BB 2 Bands MR EURAUD-g,M5: Alert: The BB 2 Bands MR EA has started
+0	11:44:37.426	BB 2 Bands MR EURAUD-g,M5: initialized
+0	11:44:37.683	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:37.683	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:44:37.685	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60949
+0	11:44:37.686	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:44:37.687	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60856
+0	11:44:37.687	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:37.690	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60949
+0	11:44:37.691	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61135
+0	11:44:37.691	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60763
+0	11:44:37.693	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:37.693	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60949
+0	11:44:37.696	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61507
+0	11:44:37.696	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60392
+0	11:44:37.698	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:37.698	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.23073177163633
+0	11:44:37.700	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:44.756	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:44.756	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:44:44.756	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60949
+0	11:44:44.756	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:44:44.756	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60856
+0	11:44:44.756	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:44.756	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60949
+0	11:44:44.756	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61135
+0	11:44:44.756	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60764
+0	11:44:44.756	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:44.756	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60949
+0	11:44:44.756	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61506
+0	11:44:44.756	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60392
+0	11:44:44.756	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:44.756	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.38754651763776
+0	11:44:44.756	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:44.979	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:44.979	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:44:44.981	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60949
+0	11:44:44.982	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:44:44.983	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60857
+0	11:44:44.984	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:44.985	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60949
+0	11:44:44.986	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61135
+0	11:44:44.987	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60764
+0	11:44:44.989	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:44.990	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60949
+0	11:44:44.990	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61506
+0	11:44:44.990	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60393
+0	11:44:44.990	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:44.990	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.54527079140772
+0	11:44:44.990	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:47.583	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:47.583	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:44:47.583	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60949
+0	11:44:47.583	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:44:47.583	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60856
+0	11:44:47.583	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:47.583	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60949
+0	11:44:47.583	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61135
+0	11:44:47.583	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60764
+0	11:44:47.583	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:47.583	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60949
+0	11:44:47.583	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61506
+0	11:44:47.583	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60392
+0	11:44:47.583	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:47.583	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.38754651763776
+0	11:44:47.583	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:51.922	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:51.922	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:44:51.922	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60949
+0	11:44:51.922	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:44:51.922	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60856
+0	11:44:51.922	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:51.922	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60949
+0	11:44:51.922	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61135
+0	11:44:51.922	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60764
+0	11:44:51.922	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:51.922	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60949
+0	11:44:51.922	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61506
+0	11:44:51.922	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60392
+0	11:44:51.922	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:51.922	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.32471191723581
+0	11:44:51.922	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:58.865	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:58.865	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:44:58.865	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60949
+0	11:44:58.865	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:44:58.865	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60857
+0	11:44:58.865	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:58.865	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60949
+0	11:44:58.865	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61135
+0	11:44:58.865	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60764
+0	11:44:58.875	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:58.875	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60949
+0	11:44:58.875	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61506
+0	11:44:58.878	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60392
+0	11:44:58.878	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:44:58.878	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.45052664145997
+0	11:44:58.878	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:22.225	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:22.225	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:45:22.227	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:45:22.227	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:45:22.227	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60864
+0	11:45:22.227	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:22.227	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:45:22.233	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61129
+0	11:45:22.233	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60776
+0	11:45:22.233	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:22.233	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:45:22.233	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:45:22.239	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60422
+0	11:45:22.239	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:22.239	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.58468579163918
+0	11:45:22.239	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:26.368	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:26.368	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:45:26.370	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:45:26.371	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:45:26.372	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60864
+0	11:45:26.372	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:26.374	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:45:26.374	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61129
+0	11:45:26.376	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60776
+0	11:45:26.376	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:26.379	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:45:26.379	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:45:26.381	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60423
+0	11:45:26.381	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:26.383	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.71805697130895
+0	11:45:26.383	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:30.669	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:30.669	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:45:30.669	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:45:30.673	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:45:30.673	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:45:30.673	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:30.673	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:45:30.677	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:45:30.677	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60776
+0	11:45:30.677	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:30.677	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:45:30.682	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:45:30.682	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60423
+0	11:45:30.682	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:30.685	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.79770433610084
+0	11:45:30.685	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:34.124	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:34.124	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:45:34.124	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:45:34.127	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:45:34.127	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:45:34.127	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:34.127	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:45:34.132	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:45:34.132	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60776
+0	11:45:34.132	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:34.132	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:45:34.132	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:45:34.132	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60423
+0	11:45:34.139	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:34.139	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.92982912656918
+0	11:45:34.139	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:40.492	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:40.492	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:45:40.492	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:45:40.492	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:45:40.492	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:45:40.492	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:40.499	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:45:40.500	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:45:40.501	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60776
+0	11:45:40.502	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:40.503	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:45:40.504	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:45:40.505	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60423
+0	11:45:40.506	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:40.508	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.82419123043591
+0	11:45:40.509	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:46.627	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:46.627	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:45:46.627	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:45:46.627	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:45:46.627	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:45:46.627	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:46.627	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:45:46.627	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:45:46.627	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60776
+0	11:45:46.638	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:46.638	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:45:46.638	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:45:46.641	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60423
+0	11:45:46.641	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:46.641	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.92982912656918
+0	11:45:46.645	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:47.687	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:47.689	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:45:47.689	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:45:47.690	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:45:47.690	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:45:47.696	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:47.696	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:45:47.696	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:45:47.699	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60776
+0	11:45:47.699	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:47.699	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:45:47.702	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:45:47.702	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60423
+0	11:45:47.702	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:47.702	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.79770433610084
+0	11:45:47.707	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:58.728	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:58.728	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:45:58.730	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:45:58.730	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:45:58.732	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:45:58.732	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:58.735	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:45:58.735	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:45:58.737	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60776
+0	11:45:58.737	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:58.739	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:45:58.739	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:45:58.742	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60423
+0	11:45:58.742	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:45:58.744	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.92982912656918
+0	11:45:58.744	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:00.115	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:00.115	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:00.115	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:46:00.118	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:46:00.119	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:00.121	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:00.122	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:46:00.123	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61129
+0	11:46:00.124	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60776
+0	11:46:00.126	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:00.127	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:46:00.128	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:00.129	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60423
+0	11:46:00.130	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:00.131	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.77118636464083
+0	11:46:00.133	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:00.266	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:00.267	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:00.267	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:46:00.267	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:46:00.267	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:00.267	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:00.267	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:46:00.267	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:00.267	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60776
+0	11:46:00.267	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:00.267	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:46:00.267	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:00.267	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60423
+0	11:46:00.267	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:00.267	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.87707200599387
+0	11:46:00.267	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:01.058	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:01.058	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:01.058	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:46:01.058	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:46:01.058	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:01.058	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:01.065	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:46:01.066	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:01.066	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60776
+0	11:46:01.069	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:01.069	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:46:01.071	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:01.071	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60423
+0	11:46:01.073	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:01.075	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.79770433610084
+0	11:46:01.075	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:01.215	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:01.216	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:01.218	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:46:01.218	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:46:01.218	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:01.218	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:01.218	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:46:01.218	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:01.218	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60776
+0	11:46:01.218	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:01.218	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:46:01.218	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:01.218	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60423
+0	11:46:01.218	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:01.218	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.90346599603063
+0	11:46:01.218	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:03.369	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:03.369	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:03.369	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:46:03.369	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:46:03.369	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:03.375	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:03.376	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:46:03.377	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:03.379	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:46:03.380	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:03.381	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:46:03.382	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:03.384	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60423
+0	11:46:03.385	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:03.385	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.06118377549409
+0	11:46:03.387	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:04.142	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:04.142	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:04.142	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:46:04.145	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:46:04.146	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:04.146	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:04.146	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:46:04.146	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:04.146	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:46:04.146	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:04.146	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:46:04.146	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:04.146	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:46:04.146	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:04.146	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.16571750718466
+0	11:46:04.146	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:10.007	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:10.007	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:10.007	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:46:10.010	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61041
+0	11:46:10.010	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:10.010	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:10.010	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:46:10.010	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:10.010	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:46:10.010	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:10.010	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:46:10.010	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:10.010	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:46:10.010	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:10.010	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.26976604844992
+0	11:46:10.010	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:15.959	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:15.959	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:15.959	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:46:15.959	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:46:15.959	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:15.960	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:15.960	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:46:15.960	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:15.960	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:46:15.960	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:15.960	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:46:15.960	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:15.960	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:46:15.960	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:15.960	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.39914955727723
+0	11:46:15.960	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:16.215	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:16.215	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:16.215	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:46:16.219	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:46:16.219	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:16.222	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:16.223	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:46:16.225	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:16.226	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:46:16.227	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:16.228	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:46:16.230	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:16.231	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:46:16.232	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:16.233	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.50211869488365
+0	11:46:16.234	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:16.252	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:16.252	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:16.252	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:46:16.252	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:46:16.252	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:16.258	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:16.258	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:46:16.259	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:16.262	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:46:16.262	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:16.265	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:46:16.265	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:16.267	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:46:16.267	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:16.270	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.57903407610536
+0	11:46:16.270	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:16.948	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:16.949	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:16.949	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:46:16.949	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:46:16.949	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:16.949	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:16.949	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:46:16.949	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:16.949	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:46:16.949	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:16.949	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:46:16.949	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:16.949	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:46:16.949	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:16.949	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.47642100926643
+0	11:46:16.949	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:22.482	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:22.482	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:22.482	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:46:22.482	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:46:22.482	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:22.482	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:22.482	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:46:22.482	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:22.482	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:46:22.482	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:22.482	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:46:22.482	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:22.482	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:46:22.482	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:22.482	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.3474860767276
+0	11:46:22.482	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:38.153	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:38.153	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:38.153	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:46:38.153	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:46:38.158	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:38.159	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:38.160	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:46:38.161	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:38.161	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:46:38.164	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:38.165	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:46:38.166	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:38.166	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:46:38.168	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:38.168	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.47642100926643
+0	11:46:38.170	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:38.763	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:38.763	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:38.763	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:46:38.763	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:46:38.767	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:38.769	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:38.770	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:46:38.771	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:38.772	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:46:38.773	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:38.774	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:46:38.775	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:38.776	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:46:38.776	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:38.779	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.57903407610536
+0	11:46:38.780	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:38.965	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:38.965	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:38.965	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60954
+0	11:46:38.968	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:46:38.969	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:38.970	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:38.971	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60954
+0	11:46:38.972	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:38.973	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:46:38.974	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:38.976	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60954
+0	11:46:38.977	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:38.978	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:46:38.979	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:38.980	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.65568401693044
+0	11:46:38.980	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:41.976	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:41.977	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:41.977	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60954
+0	11:46:41.977	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:46:41.977	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:41.977	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:41.977	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60954
+0	11:46:41.977	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:41.977	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:46:41.977	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:41.977	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60954
+0	11:46:41.977	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:41.977	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:46:41.977	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:41.977	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.808193054806
+0	11:46:41.977	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:42.963	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:42.963	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:42.963	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60954
+0	11:46:42.971	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:46:42.974	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:42.976	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:42.976	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60954
+0	11:46:42.976	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:42.976	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:46:42.976	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:42.976	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60954
+0	11:46:42.976	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:42.976	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:46:42.976	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:42.976	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.68117524780882
+0	11:46:42.976	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:43.011	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:43.011	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:43.011	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:46:43.014	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:46:43.016	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:43.017	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:43.018	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:46:43.019	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:43.020	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:46:43.021	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:43.022	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:46:43.024	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:43.025	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:46:43.026	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:43.027	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.52778673373295
+0	11:46:43.028	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:46.450	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:46.451	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:46.451	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:46:46.451	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:46:46.451	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:46.451	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:46.451	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:46:46.451	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:46.451	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:46:46.451	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:46.451	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:46:46.451	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:46.451	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:46:46.451	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:46.451	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.42493649203441
+0	11:46:46.451	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:47.233	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:47.233	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:47.233	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:46:47.233	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:46:47.233	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:47.233	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:47.233	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:46:47.233	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:47.233	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:46:47.233	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:47.233	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:46:47.233	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:47.233	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:46:47.233	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:47.234	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.52778673373295
+0	11:46:47.234	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:58.900	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:58.900	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:46:58.900	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60954
+0	11:46:58.900	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:46:58.900	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:46:58.900	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:58.900	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60954
+0	11:46:58.900	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:46:58.900	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:46:58.900	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:58.900	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60954
+0	11:46:58.900	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:46:58.901	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:46:58.901	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:46:58.901	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.6301634451643
+0	11:46:58.901	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:47:03.985	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:47:03.985	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:47:03.985	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:47:03.985	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:47:03.990	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:47:03.991	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:47:03.992	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:47:03.993	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:47:03.993	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:47:03.996	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:47:03.997	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:47:03.998	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:47:03.999	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:47:03.999	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:47:04.002	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.52778673373295
+0	11:47:04.003	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:47:04.526	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:47:04.526	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:47:04.526	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60954
+0	11:47:04.526	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:47:04.526	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:47:04.526	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:47:04.526	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60954
+0	11:47:04.526	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:47:04.526	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:47:04.526	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:47:04.527	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60954
+0	11:47:04.527	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:47:04.527	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:47:04.527	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:47:04.527	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.6301634451643
+0	11:47:04.527	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:47:08.091	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:47:08.092	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:47:08.093	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60953
+0	11:47:08.093	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:47:08.096	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60865
+0	11:47:08.096	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:47:08.098	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60953
+0	11:47:08.098	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.6113
+0	11:47:08.100	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60777
+0	11:47:08.100	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:47:08.102	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60953
+0	11:47:08.102	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61483
+0	11:47:08.105	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60424
+0	11:47:08.105	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:47:08.107	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.52778673373295
+0	11:47:08.107	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:47:12.281	BB 2 Bands MR EURAUD-g,M5: uninit reason 1
+0	11:47:12.281	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:47:12.281	BB 2 Bands MR EURAUD-g,M5: Alert: The BB 2 Bands MR EA just closed
+0	11:47:12.286	Expert BB 2 Bands MR EURAUD-g,M5: removed
+0	11:52:01.611	Expert BB 2 Bands MR EURAUD-g,M5: loaded successfully
+0	11:52:03.460	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:03.460	BB 2 Bands MR EURAUD-g,M5: Alert: The BB 2 Bands MR EA has started
+0	11:52:03.460	BB 2 Bands MR EURAUD-g,M5: initialized
+0	11:52:03.983	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:03.983	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:52:03.985	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:52:03.985	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:52:03.985	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:52:03.985	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:03.985	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:52:03.985	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:52:03.986	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60784
+0	11:52:03.986	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:03.986	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:52:03.986	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:52:03.986	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:52:03.986	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:03.986	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.03541409003856
+0	11:52:03.986	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:04.169	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:04.169	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:52:04.169	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:52:04.169	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:52:04.169	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:52:04.169	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:04.169	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:52:04.169	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:52:04.169	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60784
+0	11:52:04.169	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:04.169	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:52:04.169	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:52:04.169	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:52:04.169	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:04.169	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.22853219148004
+0	11:52:04.169	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:04.236	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:04.236	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:52:04.236	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:52:04.236	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:52:04.236	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:52:04.236	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:04.236	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:52:04.236	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:52:04.236	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60784
+0	11:52:04.236	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:04.236	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:52:04.236	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:52:04.236	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:52:04.236	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:04.236	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.29320642123528
+0	11:52:04.236	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:24.042	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:24.042	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:52:24.042	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:52:24.045	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:52:24.045	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:52:24.048	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:24.049	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:52:24.050	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:52:24.050	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60784
+0	11:52:24.052	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:24.052	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:52:24.054	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:52:24.056	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:52:24.056	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:24.058	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.22853219148004
+0	11:52:24.058	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:24.260	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:24.260	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:52:24.260	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:52:24.260	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:52:24.260	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:52:24.260	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:24.260	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:52:24.260	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:52:24.260	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60785
+0	11:52:24.260	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:24.260	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:52:24.260	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:52:24.260	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:52:24.260	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:24.260	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.39050227343763
+0	11:52:24.260	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:59.243	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:59.244	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:52:59.244	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:52:59.244	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:52:59.244	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:52:59.244	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:59.244	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:52:59.244	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:52:59.244	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60785
+0	11:52:59.244	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:59.244	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:52:59.244	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:52:59.244	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:52:59.244	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:52:59.244	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.55342517708826
+0	11:52:59.244	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:18.283	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:18.283	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:53:18.285	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:53:18.286	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:53:18.288	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:53:18.289	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:18.291	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:53:18.291	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:53:18.293	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60785
+0	11:53:18.293	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:18.295	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:53:18.296	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:53:18.296	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:53:18.299	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:18.300	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.35803229941211
+0	11:53:18.301	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:18.365	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:18.365	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:53:18.365	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:53:18.365	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:53:18.370	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:53:18.372	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:18.373	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:53:18.373	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:53:18.373	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60785
+0	11:53:18.373	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:18.373	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:53:18.373	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:53:18.380	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:53:18.381	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:18.382	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.55342517708826
+0	11:53:18.382	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:21.025	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:21.025	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:53:21.025	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:53:21.026	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:53:21.031	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60871
+0	11:53:21.032	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:21.032	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:53:21.032	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:53:21.032	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60785
+0	11:53:21.032	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:21.032	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:53:21.033	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:53:21.033	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60442
+0	11:53:21.033	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:21.033	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.68377474607266
+0	11:53:21.033	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:24.151	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:24.152	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:53:24.153	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:53:24.153	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:53:24.153	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:53:24.153	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:24.153	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:53:24.153	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:53:24.153	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60785
+0	11:53:24.153	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:24.153	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:53:24.153	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:53:24.153	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:53:24.153	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:24.153	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.55342517708826
+0	11:53:24.153	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:27.693	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:27.693	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:53:27.693	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:53:27.693	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:53:27.693	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:53:27.693	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:27.695	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:53:27.696	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:53:27.698	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60785
+0	11:53:27.699	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:27.699	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:53:27.700	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:53:27.700	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:53:27.700	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:27.700	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.42301036001616
+0	11:53:27.700	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:55.269	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:55.269	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:53:55.269	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:53:55.269	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:53:55.269	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:53:55.269	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:55.269	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:53:55.269	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:53:55.279	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60784
+0	11:53:55.280	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:55.281	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:53:55.281	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:53:55.284	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:53:55.286	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:55.287	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.26085038358226
+0	11:53:55.288	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:55.404	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:55.404	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:53:55.406	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:53:55.406	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:53:55.406	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:53:55.406	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:55.406	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:53:55.406	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:53:55.406	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60785
+0	11:53:55.406	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:55.406	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:53:55.406	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:53:55.406	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:53:55.406	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:55.406	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.39050227343763
+0	11:53:55.406	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:59.424	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:59.424	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:53:59.426	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:53:59.427	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:53:59.428	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:53:59.429	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:59.431	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:53:59.431	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:53:59.433	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60784
+0	11:53:59.433	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:59.436	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:53:59.437	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:53:59.438	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:53:59.440	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:53:59.441	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.26085038358226
+0	11:53:59.442	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:01.173	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:01.173	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:54:01.173	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:54:01.173	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:54:01.173	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:54:01.173	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:01.173	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:54:01.173	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:54:01.173	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60784
+0	11:54:01.173	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:01.173	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:54:01.186	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:54:01.188	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:54:01.189	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:01.190	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.13180402563925
+0	11:54:01.190	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:03.228	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:03.228	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:54:03.230	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:54:03.230	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:54:03.233	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:54:03.235	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:03.236	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:54:03.238	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:54:03.239	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60784
+0	11:54:03.240	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:03.241	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:54:03.242	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:54:03.242	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:54:03.245	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:03.246	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.22853219148004
+0	11:54:03.247	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:10.236	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:10.236	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:54:10.239	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:54:10.240	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:54:10.241	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:54:10.243	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:10.244	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:54:10.245	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:54:10.246	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60784
+0	11:54:10.247	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:10.249	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:54:10.250	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:54:10.251	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:54:10.253	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:10.254	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.09963655367692
+0	11:54:10.255	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:11.052	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:11.052	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:54:11.052	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:54:11.052	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:54:11.052	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:54:11.052	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:11.052	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:54:11.059	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:54:11.061	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60784
+0	11:54:11.062	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:11.063	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:54:11.064	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:54:11.066	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:54:11.066	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:11.068	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 54.9393606137366
+0	11:54:11.069	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:11.242	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:11.243	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:54:11.244	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:54:11.244	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:54:11.247	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:54:11.247	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:11.250	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:54:11.251	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:54:11.252	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60784
+0	11:54:11.253	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:11.254	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:54:11.256	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:54:11.257	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:54:11.258	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:11.259	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.29320642123528
+0	11:54:11.260	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:11.505	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:11.505	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:54:11.505	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:54:11.505	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:54:11.505	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:54:11.505	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:11.511	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:54:11.513	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:54:11.513	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60785
+0	11:54:11.515	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:11.516	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:54:11.518	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:54:11.518	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:54:11.520	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:11.521	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.52076396728793
+0	11:54:11.521	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:14.960	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:14.960	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:54:14.960	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:54:14.960	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:54:14.960	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60871
+0	11:54:14.960	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:14.968	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:54:14.969	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:54:14.970	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60785
+0	11:54:14.972	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:14.973	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:54:14.974	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:54:14.975	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60442
+0	11:54:14.977	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:14.978	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.63172677328994
+0	11:54:14.978	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:37.894	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:37.894	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:54:37.894	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:54:37.894	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:54:37.894	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60871
+0	11:54:37.894	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:37.894	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:54:37.894	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:54:37.894	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60785
+0	11:54:37.905	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:37.906	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:54:37.906	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:54:37.909	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60442
+0	11:54:37.910	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:37.911	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.76161814386653
+0	11:54:37.911	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:45.963	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:45.963	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:54:45.965	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:54:45.966	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:54:45.966	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60871
+0	11:54:45.969	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:45.969	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:54:45.972	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:54:45.973	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60785
+0	11:54:45.974	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:45.975	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:54:45.975	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:54:45.978	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60442
+0	11:54:45.979	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:45.979	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.63172677328994
+0	11:54:45.982	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:46.033	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:46.034	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:54:46.034	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:54:46.034	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:54:46.034	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60871
+0	11:54:46.034	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:46.034	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:54:46.034	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:54:46.034	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60785
+0	11:54:46.034	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:46.034	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:54:46.034	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:54:46.034	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60442
+0	11:54:46.034	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:46.034	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.70975296659505
+0	11:54:46.034	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:47.562	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:47.562	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:54:47.565	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:54:47.566	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:54:47.568	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60871
+0	11:54:47.569	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:47.570	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:54:47.571	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:54:47.572	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60785
+0	11:54:47.574	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:47.574	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:54:47.576	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:54:47.577	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:54:47.579	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:47.580	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.60565691346477
+0	11:54:47.581	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:49.855	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:49.855	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:54:49.857	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:54:49.857	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:54:49.857	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:54:49.857	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:49.857	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:54:49.857	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:54:49.857	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60785
+0	11:54:49.857	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:49.857	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:54:49.857	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:54:49.857	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:54:49.857	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:49.857	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.52076396728793
+0	11:54:49.857	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:50.044	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:50.045	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:54:50.045	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.60956
+0	11:54:50.045	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:54:50.045	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.6087
+0	11:54:50.045	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:50.045	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.60956
+0	11:54:50.045	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61128
+0	11:54:50.045	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60785
+0	11:54:50.045	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:50.045	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.60956
+0	11:54:50.045	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61471
+0	11:54:50.045	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60441
+0	11:54:50.045	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:54:50.045	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.57955639943031
+0	11:54:50.045	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:00.302	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:00.302	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:55:00.302	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.6096
+0	11:55:00.302	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:55:00.302	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60878
+0	11:55:00.302	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:00.302	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.6096
+0	11:55:00.302	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61124
+0	11:55:00.302	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60796
+0	11:55:00.302	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:00.302	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.6096
+0	11:55:00.302	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61452
+0	11:55:00.302	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60468
+0	11:55:00.318	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:00.319	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.47970578195665
+0	11:55:00.319	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:10.673	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:10.674	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:55:10.674	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.6096
+0	11:55:10.674	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:55:10.674	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60878
+0	11:55:10.674	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:10.674	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.6096
+0	11:55:10.674	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61124
+0	11:55:10.674	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60796
+0	11:55:10.674	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:10.674	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.6096
+0	11:55:10.674	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61452
+0	11:55:10.674	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60468
+0	11:55:10.674	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:10.674	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.60618925765109
+0	11:55:10.674	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:15.983	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:15.984	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:55:15.984	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.6096
+0	11:55:15.984	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:55:15.984	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60878
+0	11:55:15.984	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:15.984	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.6096
+0	11:55:15.984	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61124
+0	11:55:15.984	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60796
+0	11:55:15.984	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:15.984	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.6096
+0	11:55:15.984	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61452
+0	11:55:15.984	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60468
+0	11:55:15.984	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:15.984	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.71240209303787
+0	11:55:15.984	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:16.365	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:16.366	BB 2 Bands MR EURAUD-g,M5: Alert: Doing some trading
+0	11:55:16.366	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsMain: 1.6096
+0	11:55:16.366	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsUpper: 1.61042
+0	11:55:16.366	BB 2 Bands MR EURAUD-g,M5: Alert: smallBolligerBandsLower: 1.60878
+0	11:55:16.366	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:16.366	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsMain: 1.6096
+0	11:55:16.366	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsUpper: 1.61124
+0	11:55:16.366	BB 2 Bands MR EURAUD-g,M5: Alert: meanBolligerBandsLower: 1.60796
+0	11:55:16.366	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:16.366	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsMain: 1.6096
+0	11:55:16.366	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsUpper: 1.61452
+0	11:55:16.366	BB 2 Bands MR EURAUD-g,M5: Alert: bigBolligerBandsLower: 1.60468
+0	11:55:16.366	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:16.366	BB 2 Bands MR EURAUD-g,M5: Alert: rsi: 55.81810790997864
+0	11:55:16.366	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:22.867	BB 2 Bands MR EURAUD-g,M5: uninit reason 1
+0	11:55:22.867	BB 2 Bands MR EURAUD-g,M5: Alert: 
+0	11:55:22.867	BB 2 Bands MR EURAUD-g,M5: Alert: The BB 2 Bands MR EA just closed
+0	11:55:22.870	Expert BB 2 Bands MR EURAUD-g,M5: removed
+0	23:06:29.093	Compiling 'BB Test Strat'
+0	23:06:30.269	Compiling 'Test'
