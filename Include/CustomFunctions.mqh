@@ -6,6 +6,8 @@
 #property copyright "Myron Apostolakis"
 #property link      "https://www.mql5.com"
 #property strict
+#property show_inputs
+extern int accountPrc = 100;
 
 //+------------------------------------------------------------------+
 //| defines                                                          |
@@ -358,7 +360,7 @@ double OptimalLotSize(double maxRiskPrc, int maxLossInPips)
    Print("Account lot: " + SymbolInfoDouble(NULL, SYMBOL_TRADE_CONTRACT_SIZE));
    Print("Minimum Lot: " + MarketInfo(NULL, MODE_MINLOT));
 
-   double accEquity = AccountEquity() / 1; // use 1/100
+   double accEquity = AccountEquity() * ( accountPrc / 100 ); // use 1/100
 
    Print("accEquity: " + accEquity);
 
@@ -448,14 +450,19 @@ int bollinger2BandsTrading(
    double bigBolligerBandsUpper,
    double bigBolligerBandsLower,
 
-   double rsi)
+   double rsi,
+   int rsiMinLevel,
+   int rsiMaxLevel,
+
+   double maxRiskPrc,
+   double maxLossInPips
+   )
   {
 
    double takeProfit;
    double stopLoss;
    int orderId;
-   double maxRiskPrc = 0.02;
-   double maxLossInPips = 20;
+  
 
 // prints
 
@@ -475,7 +482,7 @@ int bollinger2BandsTrading(
    Alert("");
 
 
-   if(Ask < meanBolligerBandsLower && Open[0] > meanBolligerBandsLower && rsi < 40)
+   if(Ask < meanBolligerBandsLower && Open[0] > meanBolligerBandsLower && rsi < rsiMinLevel)
      {
       // long position
       // long position
@@ -490,7 +497,7 @@ int bollinger2BandsTrading(
       orderId = OrderSend(NULL, OP_BUYLIMIT,optLotsSize, Ask, 10, stopLoss, takeProfit, NULL, magicNB);
      }
    else
-      if(Bid > meanBolligerBandsUpper && Open[0] < meanBolligerBandsUpper && rsi > 60)
+      if(Bid > meanBolligerBandsUpper && Open[0] < meanBolligerBandsUpper && rsi > rsiMaxLevel)
         {
          // short position
 
